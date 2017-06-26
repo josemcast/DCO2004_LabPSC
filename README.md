@@ -1,5 +1,4 @@
-# DCO2004_LabPSC
-Material didático para o DCO2004: Laboratório de Prototipagem de Sistemas de Comunicações (2017.2)
+# Material didático para o DCO2004: Laboratório de Prototipagem de Sistemas de Comunicações (2017.2)
 
 ## Preparação do ambiente de prática e desenvolvimento 
 
