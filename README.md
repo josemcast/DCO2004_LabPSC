@@ -27,7 +27,7 @@
 - Submeter arquivos para repositórios do GitHub
 - Editar o README.md
 
-## Hands-on 01: Básico do Matlab e do Python 3
+## Hands-on 01: Básico sobre o Matlab e o Python 3
 
 ### [O que devemos saber para começar a programar com Matlab](https://github.com/jmarcoscosta/python-gppcom/blob/master/handson01_python.ipynb)
 **Objetivos**
