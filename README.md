@@ -28,12 +28,22 @@
 - Editar o README.md
 
 ## Hands-on 01: Básico do Matlab e do Python 3
+
+### [O que devemos saber para começar a programar com Matlab](https://github.com/jmarcoscosta/python-gppcom/blob/master/handson01_python.ipynb)
 **Objetivos**
-- Apresentar vantagens de usar o Matlab e o Python3
+- Apresentar vantagens de usar o Matlab 
 - Apresentar onde encontrar informações sobre o Matlab
 - Apresentar operações básicas com o Matlab
-- Apresentar o Spyder como interface de desenvolvimento para Pyhton 3
 - Apresentar o processo de Debug (depuração) no Matlab e no Python 3
+- Entender como é vantajoso a programação matricial com Matlab
+
+### [O que devemos saber para começar a programar com Python 3](https://github.com/jmarcoscosta/python-gppcom/blob/master/handson01_python.ipynb)
+**Objetivos**
+- Apresentar vantagens de usar o Python3
+- Apresentar onde encontrar informações sobre o Python 3
+- Apresentar operações básicas com o Python 3
+- Apresentar o Spyder como interface de desenvolvimento para Pyhton 3
+- Apresentar o processo de Debug (depuração) no Python 3
 
 
 
