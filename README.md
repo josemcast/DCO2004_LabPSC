@@ -7,7 +7,7 @@
 - Instalar VMWare no Windows
 - Baixar e criar máquina virtual Ubuntu 14.04 no Windows
 
-## [Básico do Jupyter Notebook: Instalação e prática](https://github.com/jmarcoscosta/python-gppcom/blob/master/handson01_python.ipynb)
+### [Básico do Jupyter Notebook: Instalação e prática](https://github.com/jmarcoscosta/python-gppcom/blob/master/handson01_python.ipynb)
 **Objetivos**
 - Instalar de pacotes de suporte ao Jupyter Notebook (Anaconda, nbconvert, pandoc, extensions)
 - Cadastramento no GitHub
@@ -26,4 +26,15 @@
 - Criar repositorios no GitHub
 - Submeter arquivos para repositórios do GitHub
 - Editar o README.md
+
+## Hands-on 01: Básico do Matlab e do Python 3
+**Objetivos**
+- Apresentar vantagens de usar o Matlab e o Python3
+- Apresentar onde encontrar informações sobre o Matlab
+- Apresentar operações básicas com o Matlab
+- Apresentar o Spyder como interface de desenvolvimento para Pyhton 3
+- Apresentar o processo de Debug (depuração) no Matlab e no Python 3
+
+
+
 
