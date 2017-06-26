@@ -2,17 +2,12 @@
 
 ## Preparação do ambiente de prática e desenvolvimento 
 
-### Criação de máquina virtual Ubuntu
-Objetivos
-Instalar VMWare no Windows
-Baixar e criar máquina virtual Ubuntu 14.04 no Windows
-
-* [Jupyter Notebook: Instalação e prática](https://nbviewer.jupyter.org/github/jmarcoscosta/python-gppcom/blob/master/handson01_python.ipynb)
-* [Jupyter Notebook para Matlab: Instalação de Kernel](https://nbviewer.jupyter.org/github/jmarcoscosta/python-gppcom/blob/master/handson01_python.ipynb)
+* [Criação de máquina virtual Ubuntu](https://github.com/jmarcoscosta/python-gppcom/blob/master/handson01_matlab.ipynb)
+- Instalar VMWare no Windows
+- Baixar e criar máquina virtual Ubuntu 14.04 no Windows
 
 
-Roteiro
-- https://github.com/jmarcoscosta/python-gppcom/blob/master/handson01_matlab.ipynb
+- 
 
 Básico do Jupyter Notebook: Instalação e prática
 
