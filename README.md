@@ -1,6 +1,8 @@
 # Material didático para o DCO2004: Laboratório de Prototipagem de Sistemas de Comunicações (2017.2)
 
-## Preparação do ambiente de prática e desenvolvimento * [Criação de máquina virtual Ubuntu](https://github.com/jmarcoscosta/python-gppcom/blob/master/handson01_matlab.ipynb)
+## Preparação do ambiente de prática e desenvolvimento 
+
+### * [Criação de máquina virtual Ubuntu](https://github.com/jmarcoscosta/python-gppcom/blob/master/handson01_matlab.ipynb)
 
 Objetivos:
 
