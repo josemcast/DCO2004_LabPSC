@@ -3,40 +3,27 @@
 ## Preparação do ambiente de prática e desenvolvimento 
 
 ### [Criação de máquina virtual Ubuntu](https://github.com/jmarcoscosta/python-gppcom/blob/master/handson01_matlab.ipynb)
-
-Objetivos:
-
+**Objetivos:**
 - Instalar VMWare no Windows
 - Baixar e criar máquina virtual Ubuntu 14.04 no Windows
 
-## Básico do Jupyter Notebook: Instalação e prática
+## [Básico do Jupyter Notebook: Instalação e prática](https://github.com/jmarcoscosta/python-gppcom/blob/master/handson01_python.ipynb)
+**Objetivos**
+- Instalar de pacotes de suporte ao Jupyter Notebook (Anaconda, nbconvert, pandoc, extensions)
+- Cadastramento no GitHub
+- Baixar, abrir, editar e criar Notebooks que executem blocos de código de Python (Python 3)
+- Converter .ipynb para PDF
+- Fazer um primeiro uso da linguagem Python 3 dentro dos Notebooks
 
-Objetivos
+### [Jupyter Notebook para Matlab: Instalação de Kernel](https://github.com/jmarcoscosta/python-gppcom/blob/master/handson01_matlab.ipynb)
+**Objetivos**
+- Instalar do Matlab 2015a
+- Instalar suporte ao Matlab no Jupiter Notebook (Kernel do Matlab)
+- Fazer um primeiro uso do Matlab dentro dos Notebooks
 
-Instalar de pacotes de suporte ao Jupyter Notebook (Anaconda, nbconvert, pandoc, extensions)
-Baixar, abrir, ediar e criar Notebooks que executem blocos de código de Python e Matlab (Python 3 e Matlab 2015a)
-Fazer um primeiro uso da linguagem Python dentro dos Notebooks
-
-Roteiro
-- https://github.com/jmarcoscosta/python-gppcom/blob/master/handson01_python.ipynb
--- Instalação do pacote ANACONDA
--- Baixar o repositório da disciplina DCO0024
--- Abrir arquivos com o Jupyter notebook
--- Editar arquivos .ipynb
--- Convertendo .ipynb para PDF
-OBS.: excluir parte do wget
-
-Jupyter Notebook para Matlab: Instalação de Kernel 
-
-Objetivos
-
-Instalar do Matlab 2015a
-Intalar suporte ao Matlab no Jupiter Notebook (Kernel do Matlab)
-Fazer um primeiro uso do Matlab dentro dos Notebooks
-
-Roteiro
-- https://github.com/jmarcoscosta/python-gppcom/blob/master/handson01_matlab.ipynb
-
-Jupyter Notebook: criação de seu próprio repositório
--- 
+### [Jupyter Notebook: criação de seu próprio repositório](https://github.com/jmarcoscosta/python-gppcom/blob/master/handson01_python.ipynb)
+**Objetivos**
+- Criar repositorios no GitHub
+- Submeter arquivos para repositórios do GitHub
+- Editar o README.md
 
