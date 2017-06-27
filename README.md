@@ -7,7 +7,7 @@
 - Instalar VMWare no Windows
 - Baixar e criar máquina virtual Ubuntu 14.04 no Windows
 
-### [Básico do Jupyter Notebook: Instalação e prática](https://github.com/jmarcoscosta/python-gppcom/blob/master/handson01_python.ipynb)
+### [Básico do Jupyter Notebook: Instalação e prática](https://github.com/vicentesousa/DCO2004_LabPSC/blob/master/h00_BJ.ipynb)
 **Objetivos**
 - Instalar de pacotes de suporte ao Jupyter Notebook (Anaconda, nbconvert, pandoc, extensions)
 - Cadastramento no GitHub
