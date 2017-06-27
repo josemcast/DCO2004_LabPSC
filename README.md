@@ -2,7 +2,7 @@
 
 ## Preparação do ambiente de prática e desenvolvimento 
 
-### [Criação de máquina virtual Ubuntu](https://github.com/jmarcoscosta/python-gppcom/blob/master/handson01_matlab.ipynb)
+### [Criação de máquina virtual Ubuntu](https://github.com/vicentesousa/DCO2004_LabPSC/blob/master/h00_VM.ipynb)
 **Objetivos:**
 - Instalar VMWare no Windows
 - Baixar e criar máquina virtual Ubuntu 14.04 no Windows
