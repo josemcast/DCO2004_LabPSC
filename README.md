@@ -15,7 +15,7 @@
 - Converter .ipynb para PDF
 - Fazer um primeiro uso da linguagem Python 3 dentro dos Notebooks
 
-### [Jupyter Notebook para Matlab: Instalação de Kernel](https://github.com/jmarcoscosta/python-gppcom/blob/master/handson01_matlab.ipynb)
+### [Jupyter Notebook para Matlab: Instalação de Kernel](https://github.com/vicentesousa/DCO2004_LabPSC/blob/master/h00_JM.ipynb)
 **Objetivos**
 - Instalar do Matlab 2015a
 - Instalar suporte ao Matlab no Jupiter Notebook (Kernel do Matlab)
