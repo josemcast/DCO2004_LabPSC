@@ -21,7 +21,7 @@
 - Instalar suporte ao Matlab no Jupiter Notebook (Kernel do Matlab)
 - Fazer um primeiro uso do Matlab dentro dos Notebooks
 
-### [Jupyter Notebook: criação de seu próprio repositório](https://github.com/jmarcoscosta/python-gppcom/blob/master/handson01_python.ipynb)
+### [Jupyter Notebook: criação de seu próprio repositório](https://github.com/vicentesousa/DCO2004_LabPSC/blob/master/h00_GIT.ipynb)
 **Objetivos**
 - Criar repositorios no GitHub
 - Submeter arquivos para repositórios do GitHub
