@@ -12,9 +12,7 @@
 ### [Básico do Jupyter Notebook: Instalação e prática](https://github.com/vicentesousa/DCO2004_LabPSC/blob/master/h00_BJ.ipynb)
 **Objetivos**
 - Instalar de pacotes de suporte ao Jupyter Notebook (Anaconda, nbconvert, pandoc, extensions)
-- Cadastramento no GitHub
 - Baixar, abrir, editar e criar Notebooks que executem blocos de código de Python (Python 3)
-- Converter .ipynb para PDF
 - Fazer um primeiro uso da linguagem Python 3 dentro dos Notebooks
 
 ### [Jupyter Notebook para Matlab: Instalação de Kernel](https://github.com/vicentesousa/DCO2004_LabPSC/blob/master/h00_JM.ipynb)
@@ -25,6 +23,7 @@
 
 ### [Github: criação de seu próprio repositório](https://github.com/vicentesousa/DCO2004_LabPSC/blob/master/h00_GIT.ipynb)
 **Objetivos**
+- Cadastramento no GitHub
 - Criar repositorios no GitHub
 - Submeter arquivos para repositórios do GitHub
 - Editar o README.md
