@@ -1,5 +1,7 @@
 # Material didático para o DCO2004: Laboratório de Prototipagem de Sistemas de Comunicações (2017.2)
 
+# UNIDADE I
+
 ## Hands-on 00: Preparação do ambiente de prática e desenvolvimento 
 
 ### [Criação de máquina virtual Ubuntu](https://github.com/vicentesousa/DCO2004_LabPSC/blob/master/h00_VM.ipynb)
@@ -27,7 +29,7 @@
 - Submeter arquivos para repositórios do GitHub
 - Editar o README.md
 
-## Hands-on 01: Básico sobre o Matlab e o Python 3
+## Hands-on 01: Ferramentas de prototipagem (Matlab and Python Basics)
 
 ### [O que devemos saber para começar a programar com Matlab](https://github.com/jmarcoscosta/python-gppcom/blob/master/handson01_python.ipynb)
 **Objetivos**
@@ -45,6 +47,30 @@
 - Apresentar o Spyder como interface de desenvolvimento para Pyhton 3
 - Apresentar o processo de Debug (depuração) no Python 3
 
+Hands-on 02: Visualização de sinais no tempo (vendo e ouvindo um sinal)
 
+Hands-on 03: Visualização de sinais na frequência (gerando e vendo o espectro de um sinal)
 
+Hands-on 04: Operação básicas com sinais (autocorrelação, cálculo de potência, energia e aplicações - remoção de eco com a autocorrelação)
 
+# UNIDADE II
+
+## Hands-on 05: Modulação Analógica (modulando e demodulando AM-DSB, AM-DSB-SC, AM-SSB, QAM, FM)
+
+## Hands-on 06: Transição analógico/digital (amostragem, reconstrução ideal, quantização, codificação PCM e multiplexação TDM) 
+
+## Hands-on 07: Caracterização de variáveis aleatórias (PDF e CDF), Metodologia de Monte Carlo e Teorema Central do Limite
+
+## Hands-on 08: Ruído AWGN (caracterização e geração de amostras)
+
+## Hands-on 09: Modulação Digital (modulação, demodulação e desempenho em ruído AWGN)
+
+# UNIDADE III
+
+## Hands-on 10: Desvanecimento plano (caracterização e modelagem)
+
+## Hands-on 11: Modulação Digital em Canal com Desvanecimento 
+
+## Hands-on 12: Modulação OFDM (ortogonalidade, transmissão e recepção, desempenho em canal AWGN)
+
+## Hands-on 13: Prototipagem sistêmica (modelagem de um sistema multiusuário multicelular, cálculo de interferência e SINR)
