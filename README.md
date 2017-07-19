@@ -1,6 +1,6 @@
 # Material didático para o DCO2004: Laboratório de Prototipagem de Sistemas de Comunicações (2017.2)
 
-## Preparação do ambiente de prática e desenvolvimento 
+## Hands-on 00: Preparação do ambiente de prática e desenvolvimento 
 
 ### [Criação de máquina virtual Ubuntu](https://github.com/vicentesousa/DCO2004_LabPSC/blob/master/h00_VM.ipynb)
 **Objetivos:**
