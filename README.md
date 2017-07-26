@@ -28,6 +28,8 @@
 - Submeter arquivos para repositórios do GitHub
 - Editar o README.md
 
+### [Entregáveis do Hands-on 00](https://github.com/vicentesousa/DCO2004_LabPSC/blob/master/h00_relatorio.ipynb)
+
 ## Hands-on 01: Ferramentas de prototipagem (Matlab and Python Basics)
 
 ### [O que devemos saber para começar a programar com Matlab]()
