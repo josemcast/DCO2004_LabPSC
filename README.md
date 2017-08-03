@@ -32,7 +32,7 @@
 
 ## Hands-on 01: Ferramentas de prototipagem (Matlab and Python Basics)
 
-### [O que devemos saber para começar a programar com Matlab]()
+### [O que devemos saber para começar a programar com Matlab](https://github.com/vicentesousa/DCO2004_LabPSC/blob/master/h01_matlab.ipynb)
 **Objetivos**
 - Apresentar vantagens de usar o Matlab 
 - Apresentar onde encontrar informações sobre o Matlab
@@ -40,7 +40,7 @@
 - Apresentar o processo de Debug (depuração) no Matlab e no Python 3
 - Entender como é vantajoso a programação matricial com Matlab
 
-### [O que devemos saber para começar a programar com Python 3]()
+### [O que devemos saber para começar a programar com Python 3](https://github.com/vicentesousa/DCO2004_LabPSC/blob/master/h01_python.ipynb)
 **Objetivos**
 - Apresentar vantagens de usar o Python3
 - Apresentar onde encontrar informações sobre o Python 3
