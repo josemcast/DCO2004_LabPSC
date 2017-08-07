@@ -48,6 +48,8 @@
 - Apresentar o Spyder como interface de desenvolvimento para Pyhton 3
 - Apresentar o processo de Debug (depuração) no Python 3
 
+### [Entregáveis do Hands-on 01](https://github.com/vicentesousa/DCO2004_LabPSC/blob/master/h01_relatorio.ipynb)
+
 ## Hands-on 02: Visualização de sinais no tempo (vendo e ouvindo um sinal)
 
 ## Hands-on 03: Visualização de sinais na frequência (gerando e vendo o espectro de um sinal)
