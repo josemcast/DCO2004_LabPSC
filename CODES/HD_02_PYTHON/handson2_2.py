@@ -10,18 +10,18 @@ import time
 import numpy as np
 import scipy.io.wavfile as wv 
 import os
-y = np.array([0])
-for iplay in vtmusic: # Loop de geração e reprodução da música 
-    if iplay==0:      #Implementação do silêncio
-        time.sleep(tf)   
+y = np.zeros(1)
+
+for iplay in vtmusic:
+    if iplay==0:
+        time.sleep(tf)   #Implementaçao do silencio
     else:
         fs = vtTom2Freq[iplay]*fdo           # Escolhe a frequência do tom corrente
-        fa = 100*fs                          # Escolhe a frequência de amostragem do tom corrente
+        fa = int(100*fs)                          # Escolhe a frequência de amostragem do tom corrente
         t = np.arange(0,tf+1/fa,1/fa)          # Gera o eixo do tempo para o tom corrente
-        np.append(y,np.cos(2*np.pi*fs*t))                    # Gera o tom corrente
+        y=np.append(y,np.cos(2*np.pi*fs*t)) # Gera o tom corrente e o junta com os já gerados
+        
+        wv.write('tom_corrente.wav',fa,y) #grava o tom para reprodução
+        os.system('cvlc tom_corrente.wav') #reproduz o tom gravado
         time.sleep(tf)
-
-
-wv.write('./MATERIAL/HD_02_PYTHON/tom_corrente.wav',fa,y) #grava o tom para reprodução
-os.system('cvlc ./MATERIAL/HD_02_PYTHON/tom_corrente.wav') #reproduz o tom gravado
    

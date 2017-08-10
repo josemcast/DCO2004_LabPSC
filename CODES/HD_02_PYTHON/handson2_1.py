@@ -16,6 +16,8 @@ plt.plot(t,y)                # Visualizar o sinal gerado
 plt.axis([0,0.02,-2,2])     # Zoom para melhor visualização  
 plt.show() 
 
+#DESCOMENTE AS LINHAS DE COMANDO ABAIXO APÓS AJUSTAR O ENDEREÇO, COMO SUGERIDO
+
 #importando e armazenando o arquivo de áudio numa variável
 #som = wv.read('./MATERIAL/HD_02_MATLAB/sound_01.wav')
 
