@@ -1,13 +1,13 @@
-clear all;close all;      % Limpa vari·veis e fecha todos os gr·ficos
-% Par‚metros da onda
-tf = 1;                   % Tempo de duraÁ„o da nota
-fc = 512;                 % FrequÍncia da nota DÛ
-fs = 100*fc;              % Frequencia de amostragem da nota. 
-t = 0:1/fs:tf;            % Vetor tempo. Para cada elemento do vetor t, haver· um elemento em y correspondente.
+clear all;close all;      % Limpa vari√°veis e fecha todos os gr√°ficos
+% Par√¢metros da onda
+tf = 1;                   % Tempo de dura√ß√£o da nota
+fc = 512;                 % Frequ√™ncia da nota D√≥
+fs = 100*fc;              % Frequ√™ncia de amostragem da nota. 
+t = 0:1/fs:tf;            % Vetor tempo. Para cada elemento do vetor t, haver√° um elemento em y correspondente.
 A = 1;                    % Amplitude do sinal
 y=A*cos(2*pi*fc*t);       % Sinal senoidal
 p = audioplayer(y, fs);   % Reproduzir o sinal gerado
 play(p);                  % Reproduzir o sinal gerado
-pause(tf);                % ForÁar uma pausa com a duraÁ„o do som a ser escutado
+pause(tf);                % For√ßar uma pausa com a dura√ß√£o do som a ser escutado
 plot(t,y);                % Visualizar o sinal gerado  
-axis([0 0.02 -2 2 ]);     % Zoom para melhor visualizaÁ„o 
+axis([0 0.02 -2 2 ]);     % Zoom para melhor visualiza√ß√£o  
