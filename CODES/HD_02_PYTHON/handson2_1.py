@@ -24,7 +24,7 @@ fs_som, som = wv.read('../../MATERIAL/HD_02_MATLAB/sound_01.wav')
 wv.write('../../MATERIAL/HD_02_PYTHON/tom_gerado.wav',fs,y)
 #reproduzindo o arquivo
 
-os.system('cvlc ../../MATERIAL/HD_02_PYTHON/tom_gerado.wav') 
+os.system('cvlc --play-and-exit ../../MATERIAL/HD_02_PYTHON/tom_gerado.wav') 
 #vlc chama o programa VLC Audio Player
 #'c' serve para que nenhuma interface seja aberta
 
