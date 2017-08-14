@@ -52,6 +52,20 @@
 
 ## Hands-on 02: Visualização de sinais no tempo (vendo e ouvindo um sinal)
 
+### [Parte 01](https://github.com/vicentesousa/DCO2004_LabPSC/blob/master/h02_matlab.ipynb) 
+### Objetivos
+- Fazer uma breve revisão de sinais e ondas;
+- Fazer uma breve revisão de sinais de áudio;
+- Praticar geração e plotagem de sinais de áudio;
+- Praticar abertura e plotagem de arquivos de áudio.
+
+### [Parte 02](https://github.com/vicentesousa/DCO2004_LabPSC/blob/master/h02_python.ipynb)
+### Objetivos
+- Praticar geração e plotagem de sinais de áudio no Python;
+- Praticar abertura e plotagem de arquivos de áudio no Python.
+
+### [Entregáveis do Hands-on 02](https://github.com/vicentesousa/DCO2004_LabPSC/blob/master/h02_relatorio.ipynb)
+
 ## Hands-on 03: Visualização de sinais na frequência (gerando e vendo o espectro de um sinal)
 
 ## Hands-on 04: Operação básicas com sinais (autocorrelação, cálculo de potência, energia e aplicações - remoção de eco com a autocorrelação)
