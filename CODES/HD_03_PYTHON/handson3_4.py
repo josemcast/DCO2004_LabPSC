@@ -15,26 +15,17 @@ lfft = 1000                                                  # Tamanho da FFT
 yfft = np.fft.fft(m,lfft)/lfft                               # Cálculo da FFT via função do Matlab
 freq1 = np.arange(0,fsampling/2,fsampling/lfft)              # Definição do eixo das frequências unilateral
 yfftuni = yfft[0:lfft//2]                                    # Coleta da FFT unilateral
-plt.subplot(211)
-plt.stem(freq1,np.abs(yfftuni))                              # Plotagem do espectro unilateral M(f)
-plt.grid()
-plt.title('Tamanho da FFT = '+str(lfft))
-plt.axis([0,0.1,0,1.2])
+
 
 ## Visualizando a amplitude do espectro com um tamanho arbitrário para a FFT
 lfft2 = 512                                                  # Tamanho da FFT
 yfft2 = np.fft.fft(m,lfft2)/lfft2                            # Cálculo da FFT via função do Matlab
 freq2 = np.arange(0,fsampling/2,fsampling/lfft2)             # Definição do eixo das frequências unilateral
 yfftuni2 = yfft2[0:lfft2//2]                                 # Coleta da FFT unilateral
-plt.subplot(212)
-plt.stem(freq2,np.abs(yfftuni2))                             # Plotagem do espectro unilateral M(f)
-plt.grid()
-plt.title('Tamanho da FFT = '+str(lfft2))
-plt.axis([0,0.1,0,1.2])
 
-plt.show() 
-## Gráficos com a função plot()
-plt.figure(2,[10,7])
+
+## Gráficos com a função plt.plot()
+plt.figure(1,[10,7])
 plt.subplot(211)
 plt.plot(freq1,np.abs(yfftuni))                              # Plotagem do espectro unilateral M(f)
 plt.grid()
@@ -48,3 +39,20 @@ plt.title('Tamanho da FFT = '+str(lfft2))
 plt.axis([0,0.1,0,1.2])
 
 plt.show()
+
+#Gráficos com a função pĺt.stem()
+plt.figure(2,[10,7])
+plt.subplot(211)
+plt.stem(freq1,np.abs(yfftuni))                              # Plotagem do espectro unilateral M(f)
+plt.grid()
+plt.title('Tamanho da FFT = '+str(lfft))
+plt.axis([0,0.1,0,1.2])
+
+plt.subplot(212)
+plt.stem(freq2,np.abs(yfftuni2))                             # Plotagem do espectro unilateral M(f)
+plt.grid()
+plt.title('Tamanho da FFT = '+str(lfft2))
+plt.axis([0,0.1,0,1.2])
+
+plt.show() 
+
