@@ -62,6 +62,20 @@
 
 ## Hands-on 03: Visualização de sinais na frequência (gerando e vendo o espectro de um sinal)
 
+### [Parte 01](https://github.com/vicentesousa/DCO2004_LabPSC/blob/master/h03_matlab.ipynb) 
+### Objetivos
+- Fazer uma breve revisão sobre amostragem e a consequência de seu valor na reconstrução de um sinal amostrado;
+- Visualização do conteúdo em frequência (single e double sided) de um sinal;
+- Praticar aspectos de análise espectral (janelamento).
+
+### [Parte 02](https://github.com/vicentesousa/DCO2004_LabPSC/blob/master/h03_python.ipynb) 
+### Objetivos
+- Fazer uma breve revisão sobre amostragem e a consequência de seu valor na resconstrução de um sinal amostrado com Python;
+- Visualização do conteúdo em frequência (single e double sided) de um sinal com Python;
+- Praticar aspectos de análise espectral (janelamento) com Python.
+
+### [Entregáveis do Hands-on 03](https://github.com/vicentesousa/DCO2004_LabPSC/blob/master/h03_relatorio.ipynb)
+
 ## Hands-on 04: Operação básicas com sinais (autocorrelação, cálculo de potência, energia e aplicações - remoção de eco com a autocorrelação)
 
 # UNIDADE II
