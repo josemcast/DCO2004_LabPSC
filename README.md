@@ -78,6 +78,18 @@
 
 ## Hands-on 04: Operação básicas com sinais (autocorrelação, cálculo de potência, energia e aplicações - remoção de eco com a autocorrelação)
 
+### [Parte 01](https://github.com/vicentesousa/DCO2004_LabPSC/blob/master/h04_matlab.ipynb) 
+### Objetivos
+- Fazer uma breve revisão sobre processos estocásticos e medidas relacionadas;
+- Fazer uma breve revisão sobre cálculo de potência e energia de um sinal (seu significado e seu cálculo);
+- Fazer uma aplicação prática com a autocorrelção (remoção de eco com a autocorrelação).
+
+### [Parte 02](https://github.com/vicentesousa/DCO2004_LabPSC/blob/master/h04_python.ipynb)
+### Objetivos
+- Fazer uma breve revisão sobre processos estocásticos e medidas relacionadas usando Python;
+- Fazer uma breve revisão sobre cálculo de potência e energia de um sinal (seu significado e seu cálculo) usando Python;
+- Fazer uma aplicação prática com a autocorrelção (remoção de eco) usando Python.
+
 # UNIDADE II
 
 ## Hands-on 05: Modulação Analógica (modulando e demodulando AM-DSB, AM-DSB-SC, AM-SSB, QAM, FM)
