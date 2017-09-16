@@ -85,8 +85,6 @@
 - Fazer uma aplicação prática com a autocorrelção (remoção de eco com a autocorrelação).
 
 ### [Parte 02](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_LabPSC/blob/master/h04_python.ipynb)
-
-
 ### Objetivos
 - Fazer uma breve revisão sobre processos estocásticos e medidas relacionadas usando Python;
 - Fazer uma breve revisão sobre cálculo de potência e energia de um sinal (seu significado e seu cálculo) usando Python;
@@ -94,7 +92,15 @@
 
 # UNIDADE II
 
-## Hands-on 05: Modulação Analógica (modulando e demodulando AM-DSB, AM-DSB-SC, AM-SSB, QAM, FM)
+## Hands-on 05: Modulação Analógica (AM-DSB, AM-DSB-SC, AM-SSB, QAM, FM)
+### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_LabPSC/blob/master/h05.ipynb) 
+### Objetivos
+- Fazer uma breve revisão sobre modulação de onda contínua AM e FM (banda-passante);
+- Fazer uma breve revisão sobre demodulação de onda contínua AM e FM (banda-passante);
+- Fazer uma breve revisão sobre modulação em quadratura;
+- Praticar com protótipos em Matlab e Python de moduladores AM-DSB, AM-DSB-SC, AM-SSB, QAM e FM.
+
+### [Entregáveis do Hands-on 05](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_LabPSC/blob/master/h05_relatorio.ipynb)
 
 ## Hands-on 06: Transição analógico/digital (amostragem, reconstrução ideal, quantização, codificação PCM e multiplexação TDM) 
 
