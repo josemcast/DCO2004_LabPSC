@@ -103,6 +103,13 @@
 ### [Entregáveis do Hands-on 05](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_LabPSC/blob/master/h05_relatorio.ipynb)
 
 ## Hands-on 06: Transição analógico/digital (amostragem, reconstrução ideal, quantização, codificação PCM e multiplexação TDM) 
+### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_LabPSC/blob/master/h06.ipynb) 
+### Objetivos
+- Fazer uma breve revisão sobre o processo de digitalização de um sinal contínuo (amostragem, quantização, codificação, reconstrução);
+- Fazer uma breve revisão sobre o processo de no tempo;
+- Praticar os conceitos com protótipos em Matlab e Python.
+
+### [Entregáveis do Hands-on 06](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_LabPSC/blob/master/h06_relatorio.ipynb)
 
 ## Hands-on 07: Caracterização de variáveis aleatórias (PDF e CDF), Metodologia de Monte Carlo e Teorema Central do Limite
 
