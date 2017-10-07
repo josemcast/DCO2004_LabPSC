@@ -112,6 +112,15 @@
 ### [Entregáveis do Hands-on 06](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_LabPSC/blob/master/h06_relatorio.ipynb)
 
 ## Hands-on 07: Caracterização de variáveis aleatórias (PDF e CDF), Metodologia de Monte Carlo e Teorema Central do Limite
+### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_LabPSC/blob/master/h07.ipynb) 
+### Objetivos
+- Fazer uma breve revisão sobre parte da taxonomia associada a modelagem de fenômenos aleatórios;
+- Fazer uma breve revisão e praticar a geração de variáveis aleatórias;
+- Entender características essenciais relacionadas a técnica de Monte Carlo;
+- Entender características essenciais do Teorema do Limite Central (ou Teorema Central do Limite);
+- Praticar os conceitos com protótipos em Matlab e Python.
+
+### [Entregáveis do Hands-on 07](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_LabPSC/blob/master/h07_relatorio.ipynb)
 
 ## Hands-on 08: Ruído AWGN (caracterização e geração de amostras)
 
