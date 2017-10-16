@@ -123,6 +123,13 @@
 ### [Entregáveis do Hands-on 07](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_LabPSC/blob/master/h07_relatorio.ipynb)
 
 ## Hands-on 08: Ruído AWGN (caracterização e geração de amostras)
+### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_LabPSC/blob/master/h08.ipynb) 
+### Objetivos
+- Fazer uma breve revisão sobre ruído em comunicações analógicas e digitais (e métricas associadas);
+- Entender o processe de geração de amostras de ruído branco (real e complexo);
+- Praticar os conceitos com protótipos em Matlab e Python.
+
+### [Entregáveis do Hands-on 08](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_LabPSC/blob/master/h08_relatorio.ipynb)
 
 ## Hands-on 09: Modulação Digital (modulação, demodulação e desempenho em ruído AWGN)
 
