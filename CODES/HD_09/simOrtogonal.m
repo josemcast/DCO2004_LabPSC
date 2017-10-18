@@ -14,9 +14,10 @@ function [dBER] = simOrtogonal(EbN0_dB,nMCSamples)
 % do arquivo h09.ipynb
 %
 % Exemplo de uso: [dBER] = simOrtogonal(EbN0_dB,nMCSamples)
+
 % Parâmetros
 dE = 1;                           % Energia do sinal s0 e s1
-dEbN0 = exp(EbN0_dB*log(10)/10);   % Eb/No em escala linear
+dEbN0 = 10^(EbN0_dB/10);           % Eb/No em escala linear
 dsgma = dE/sqrt(2*dEbN0);	      % Desvio padrão do ruído
 %
 %% Transmissão
@@ -29,13 +30,13 @@ vtIndex1 = find(vtBin == 1);
 %
 %% Recepção e detecção de erro
 % Gera saída do correlator para cada transmissão de s0
-vtEnergiaRo(vtIndex0) = dE + dsgma*randn(1,length(vtIndex0));
-vtEnergiaR1(vtIndex0) = dsgma*randn(1,length(vtIndex0));
+vtro(vtIndex0) = dE + dsgma*randn(1,length(vtIndex0));
+vtr1(vtIndex0) = dsgma*randn(1,length(vtIndex0));
 % Gera saída do correlator para cada transmissão de s1
-vtEnergiaRo(vtIndex1) = dsgma*randn(1,length(vtIndex1));
-vtEnergiaR1(vtIndex1) = dE + dsgma*randn(1,length(vtIndex1));
+vtro(vtIndex1) = dsgma*randn(1,length(vtIndex1));
+vtr1(vtIndex1) = dE + dsgma*randn(1,length(vtIndex1));
 % Detecção: 0 se, r0>r1; e 1, se r0<r1
-vtBinDetec = vtEnergiaRo < vtEnergiaR1;
+vtBinDetec = vtro < vtr1;
 %
 % Detecção de erros (soma dos vetores originais e detectados)
 % 0 + 0 = 0 (acerto)
