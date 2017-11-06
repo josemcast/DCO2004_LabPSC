@@ -133,6 +133,21 @@
 
 ## Hands-on 09: Modulação Digital (modulação, demodulação e desempenho em ruído AWGN)
 
+### [Hands-on - Parte 1](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_LabPSC/blob/master/h09_1.ipynb) 
+### Objetivos
+- Entender os processos de transmissão e recepção digital em banda-base (sinais ortogonais e antipodais);
+- Entender recepção ótima em canais AWGN;
+- Entender como fazer análise de desempenho de um enlace de comunicação digital sujeito a canal AWGN (traçar e analisar curva BER vs $E_B/N_0$ via simulação de Monte Carlo).
+
+### [Hands-on - Parte 2](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_LabPSC/blob/master/h09_2.ipynb) 
+### Objetivos
+- Entender os processos de transmissão e recepção de um sinal digital em canais AWGN limitado em banda (caracterização da ISI);
+- Entender a traçar e analisar um diagrama de olho (visualização dos efeitos da ISI);
+- Entender os processos de transmissão e recepção de um sinal digital em banda-passante.
+- Aprender a estimar a PSD de sinais digitais.
+
+### [Entregáveis do Hands-on 09](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_LabPSC/blob/master/h09_relatorio.ipynb)
+
 # UNIDADE III
 
 ## Hands-on 10: Desvanecimento plano (caracterização e modelagem)
