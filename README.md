@@ -150,10 +150,15 @@
 
 # UNIDADE III
 
-## Hands-on 10: Desvanecimento plano (caracterização e modelagem)
+## Hands-on 10: Modulação Digital em Canal com Desvanecimento (caracterização, modelagem e desempenho)
+### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_LabPSC/blob/master/h10.ipynb)
+### Objetivos
+Entender a caracterização e modelagem de canais com desvanecimento plano;
+Entender como gerar um canal com desvanecimento plano;
+Entender como fazer análise de desempenho de um enlace de comunicação digital sujeito a canais com ruído AWGN e desvanecimento plano (traçar e analisar curva BER vs $E_B/N_0$ via simulação de Monte Carlo).
 
-## Hands-on 11: Modulação Digital em Canal com Desvanecimento 
+### [Entregáveis do Hands-on 10](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_LabPSC/blob/master/h10_relatorio.ipynb)
 
-## Hands-on 12: Modulação OFDM (ortogonalidade, transmissão e recepção, desempenho em canal AWGN)
+## Hands-on 11: Modulação OFDM (ortogonalidade, transmissão e recepção, desempenho em canal AWGN)
 
 ## Hands-on 13: Prototipagem sistêmica (modelagem de um sistema multiusuário multicelular, cálculo de interferência e SINR)
