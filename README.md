@@ -160,5 +160,11 @@ Entender como fazer análise de desempenho de um enlace de comunicação digital
 ### [Entregáveis do Hands-on 10](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_LabPSC/blob/master/h10_relatorio.ipynb)
 
 ## Hands-on 11: Modulação OFDM (ortogonalidade, transmissão e recepção, desempenho em canal AWGN)
+### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_LabPSC/blob/master/h11.ipynb)
+### Objetivos
+Entender a modelagem da multiplexação OFDM;
+Entender o processo de ortogalização entre subportadoras OFDM;
+Entender a modelagem da demultiplexação OFDM;
+Demonstrar o processo de demultiplexação OFDM em canais AWGN.
 
-## Hands-on 13: Prototipagem sistêmica (modelagem de um sistema multiusuário multicelular, cálculo de interferência e SINR)
+### [Entregáveis do Hands-on 11](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_LabPSC/blob/master/h11_relatorio.ipynb)
