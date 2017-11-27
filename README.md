@@ -153,18 +153,18 @@
 ## Hands-on 10: Modulação Digital em Canal com Desvanecimento (caracterização, modelagem e desempenho)
 ### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_LabPSC/blob/master/h10.ipynb)
 ### Objetivos
-Entender a caracterização e modelagem de canais com desvanecimento plano;
-Entender como gerar um canal com desvanecimento plano;
-Entender como fazer análise de desempenho de um enlace de comunicação digital sujeito a canais com ruído AWGN e desvanecimento plano (traçar e analisar curva BER vs $E_B/N_0$ via simulação de Monte Carlo).
+- Entender a caracterização e modelagem de canais com desvanecimento plano;
+- Entender como gerar um canal com desvanecimento plano;
+- Entender como fazer análise de desempenho de um enlace de comunicação digital sujeito a canais com ruído AWGN e desvanecimento plano (traçar e analisar curva BER vs $E_B/N_0$ via simulação de Monte Carlo).
 
 ### [Entregáveis do Hands-on 10](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_LabPSC/blob/master/h10_relatorio.ipynb)
 
 ## Hands-on 11: Modulação OFDM (ortogonalidade, transmissão e recepção, desempenho em canal AWGN)
 ### [Hands-on](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_LabPSC/blob/master/h11.ipynb)
 ### Objetivos
-Entender a modelagem da multiplexação OFDM;
-Entender o processo de ortogalização entre subportadoras OFDM;
-Entender a modelagem da demultiplexação OFDM;
-Demonstrar o processo de demultiplexação OFDM em canais AWGN.
+- Entender a modelagem da multiplexação OFDM;
+- Entender o processo de ortogalização entre subportadoras OFDM;
+- Entender a modelagem da demultiplexação OFDM;
+- Demonstrar o processo de demultiplexação OFDM em canais AWGN.
 
 ### [Entregáveis do Hands-on 11](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_LabPSC/blob/master/h11_relatorio.ipynb)
