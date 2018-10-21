@@ -11,14 +11,14 @@
 
 ### [Básico do Jupyter Notebook: Instalação e prática](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_LabPSC/blob/master/h00_BJ.ipynb)
 **Objetivos**
-- Instalar de pacotes de suporte ao Jupyter Notebook (Anaconda, nbconvert, pandoc, extensions)
+- Instalar pacotes de suporte ao Jupyter Notebook (Anaconda, nbconvert, pandoc, extensions)
 - Baixar, abrir, editar e criar Notebooks que executem blocos de código de Python (Python 3)
 - Fazer um primeiro uso da linguagem Python 3 dentro dos Notebooks
 
 ### [Github: criação de seu próprio repositório](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_LabPSC/blob/master/h00_GIT.ipynb)
 **Objetivos**
 - Cadastramento no GitHub
-- Criar repositorios no GitHub
+- Criar repositórios no GitHub
 - Submeter arquivos para repositórios do GitHub
 - Editar o README.md
 
@@ -39,7 +39,7 @@
 - Apresentar vantagens de usar o Python3
 - Apresentar onde encontrar informações sobre o Python 3
 - Apresentar operações básicas com o Python 3
-- Apresentar o Spyder como interface de desenvolvimento para Pyhton 3
+- Apresentar o Spyder como interface de desenvolvimento (IDE) para Pyhton 3
 - Apresentar o processo de Debug (depuração) no Python 3
 
 ### [Entregáveis do Hands-on 01](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_LabPSC/blob/master/h01_relatorio.ipynb)
@@ -82,13 +82,13 @@
 ### Objetivos
 - Fazer uma breve revisão sobre processos estocásticos e medidas relacionadas;
 - Fazer uma breve revisão sobre cálculo de potência e energia de um sinal (seu significado e seu cálculo);
-- Fazer uma aplicação prática com a autocorrelção (remoção de eco com a autocorrelação).
+- Fazer uma aplicação prática com a autocorrelação (remoção de eco com a autocorrelação).
 
 ### [Parte 02](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004_LabPSC/blob/master/h04_python.ipynb)
 ### Objetivos
 - Fazer uma breve revisão sobre processos estocásticos e medidas relacionadas usando Python;
 - Fazer uma breve revisão sobre cálculo de potência e energia de um sinal (seu significado e seu cálculo) usando Python;
-- Fazer uma aplicação prática com a autocorrelção (remoção de eco) usando Python.
+- Fazer uma aplicação prática com a autocorrelação (remoção de eco) usando Python.
 
 # UNIDADE II
 
